@@ -1,5 +1,5 @@
 This is a test Arduino project for an Heltech Wireless Stick(V3): https://heltec.org/project/wireless-stick-v3/.
-In order to save battery charge, the Stick has been modified in the way I described in documentation folder.
+In order to save battery charge, the Stick has been modified in the way I described in documentation folder. Please also look at other hardware issues described in the same folder.
 The Stick is arranged in a portable container supplied with a 18650 3000mAh battery.
 The purpose is to verify of far from my Seeedstudio Capsense gateway it can be received, and how long the battery charge can last, setting different duty cycles.
 The portable box contains also a Wurth Elektronics dev board for temperature and humidity sensor, to return usefull data: https://www.we-online.com/en/components/products/WSEN-HIDS.
