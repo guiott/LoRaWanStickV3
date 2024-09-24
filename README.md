@@ -5,4 +5,6 @@ The purpose is to verify of far from my Seeedstudio Capsense gateway it can be r
 The portable box contains also a Wurth Elektronics dev board for temperature and humidity sensor, to return usefull data: https://www.we-online.com/en/components/products/WSEN-HIDS.
 The project requires Heltech libraries: https://github.com/HelTecAutomation/Heltec_ESP32 and Sensirion libraries for the sensor SHT40 (fully compatible with Wurth WSEN_HIDS): https://github.com/Sensirion/arduino-i2c-sht4x
 
+To start working rename Config.h_TEMPLATE in Config.h and edit keys to your own needs.
+
 The repository contains also the javascript code for the gateway codec to parse the packet to MQTT broker.
