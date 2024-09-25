@@ -12,9 +12,9 @@
  *
  * */
 
-#ifndef LORAWAN_H
-#define LORAWAN_H
-  #include "LoRaWan_APP.h"
+#ifndef GoLORAWAN_H
+#define GoLORAWAN_H
+  #include "GoLoRaWan_APP.h"
 #endif
 
 #ifndef DISPLAY_H

@@ -1,6 +1,6 @@
-#ifndef LoRaWan_APP_H
-#define LoRaWan_APP_H
-  #include "LoRaWan_APP.h"
+#ifndef GoLoRaWan_APP_H
+#define GoLoRaWan_APP_H
+  #include "GoLoRaWan_APP.h"
   //For a connection via I2C using the Arduino Wire include:
 #endif
 
