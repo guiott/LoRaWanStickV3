@@ -52,7 +52,7 @@ void displaySignalData()
       else
       {  
         strcpy(Temp1, LoRaWAN.dispSignal());
-        strcpy(Temp2, LoRaWAN.dispDataRate());
+        strcpy(Temp2, LoRaWAN.dispDrTxPow());
         strcpy(Temp3, BattVStr);
         dispScreen(CENTER, Temp1, Temp2, Temp3);
       }
