@@ -13,8 +13,6 @@ Please put "**DOC/ModifiedLibs/GoLoRaWan_APP.c and .h**" in "**Arduino/libraries
 
 Also the original RegionCommon library has been modified in order to export Tx Power data and show it on display.
 
-Please put **"DOC/ModifiedLibs/GoLoRaWan_APP.c and .h"** in **"Arduino/libraries/Heltec-ESP32-Dev-Boards/src/"** and remove the original ones.
-
 Please put **"DOC/ModifiedLibs/RegionCommon.c and .h"** in **"Arduino/libraries/Heltec-ESP32-Dev-Boards/src/loramac/region"** and remove the original ones.
  
 To start working rename Config.h_TEMPLATE in Config.h and edit keys to your own needs.
