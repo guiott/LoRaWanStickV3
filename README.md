@@ -10,6 +10,7 @@ The original LoRaWan_APP library has been modified because all the functions rel
 In LoRaWan_APP there also are the functions to display communication data on display.
 =======
 Please put "**DOC/ModifiedLibs/GoLoRaWan_APP**" in "**Arduino/libraries/Heltec-ESP32-Dev-Boards/src/**" and remove the original ones.
+>>>>>>> 49bfd3c8262e6aa2bfe602944d53f1e90d7c0dd2
 
 Also the original RegionCommon library has been modified in order to export Tx Power data and show it on display.
 
